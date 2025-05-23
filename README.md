@@ -95,6 +95,3 @@ Foram treinados e salvos dois modelos principais utilizando Scikit-learn:
 * **Avaliação de Modelos:** Adicionar e acompanhar métricas de desempenho detalhadas (ex: acurácia, precisão, recall, F1-score para classificação; RMSE, MAE para regressão) no processo de treinamento e validação dos modelos.
 * **Deploy:** Empacotar e disponibilizar a aplicação em um ambiente de nuvem ou servidor local para testes e uso.
 
----
-
-Este README visa fornecer uma visão clara do projeto "Prognóstico Veterinário Automatizado". Para mais detalhes sobre a implementação específica, consulte o código-fonte e a documentação associada.
