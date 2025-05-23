@@ -2,8 +2,8 @@
 
 **Uma Solução para Prever Desfecho e Tempo de Internação de Pets**
 
-* **Autor:** [Seu Nome]
-* **Contexto:** Desafio de Faculdade
+* **Autor:** Rian
+* **Contexto:** Hackathon FMU
 
 ## Visão Geral
 
