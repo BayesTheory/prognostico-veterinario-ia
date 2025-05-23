@@ -1,10 +1,6 @@
 # Prognóstico Veterinário Automatizado: Inteligência para a Saúde Animal
 
 **Uma Solução para Prever Desfecho e Tempo de Internação de Pets**
-
-* **Autor:** Rian
-* **Contexto:** Hackathon FMU
-
 ## Visão Geral
 
 Este projeto apresenta um sistema de prognóstico veterinário automatizado desenvolvido como parte de um desafio de faculdade. O objetivo principal é utilizar a inteligência artificial para auxiliar médicos veterinários a prever o desfecho de casos clínicos (ex: recuperação, óbito) e estimar o tempo de internação de animais de estimação, oferecendo um apoio mais objetivo às decisões clínicas.
